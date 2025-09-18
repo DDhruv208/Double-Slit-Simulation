@@ -12,12 +12,17 @@ It shows how a Gaussian wave packet (representing a photon or electron) passes t
 - Time-evolution of a quantum wave packet
 - Double-slit barrier visualization
 - Animated interference fringes
-- Output video (`doubleslit.mp4`)
+- Output video (`double_slit.mp4`)
+
+## 📸 Preview
+Here’s a short preview of the simulation:
+
+![Simulation Screenshot](double_slit.png)
 
 ## ▶ Watch the animation
-If GitHub supports it (file < 25MB), you can [watch the video here](doubleslit.mp4).  
-Otherwise, download `doubleslit.mp4` from this repo and play it locally.
+If GitHub supports it (file < 25MB), you can [watch the video here](double_slit.mp4).  
+Otherwise, download `double_slit.mp4` from this repo and play it locally.
 
 ## Run
 ```bash
-python doubleslit.py
+python double_slit.py
