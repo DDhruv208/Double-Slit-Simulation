@@ -26,8 +26,6 @@ Otherwise, download `double_slit.mp4` from this repo and play it locally.
 ## Run
 ```bash
 python double_slit.py
-
----
-
+```
 ## 📄 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE.txt) file for details.
