@@ -20,7 +20,7 @@ Here’s a short preview of the simulation:
 ![Simulation Screenshot](double_slit.png)
 
 ## ▶ Watch the animation
-If GitHub supports it (file < 25MB), you can [watch the video here](double_slit.mp4).  
+you can [watch the video here](double_slit.mp4).  
 Otherwise, download `double_slit.mp4` from this repo and play it locally.
 
 ## Run
